@@ -1,6 +1,6 @@
+plotly==5.18.0
 altair
 pandas
 numpy
 streamlit
 pydeck
-plotly 5.18.0

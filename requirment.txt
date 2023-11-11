@@ -3,4 +3,4 @@ pandas
 numpy
 streamlit
 pydeck
-plotly
+plotly 5.18.0
